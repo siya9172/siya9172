@@ -1,4 +1,4 @@
-![logo]((https://github.com/siya9172/siya9172/blob/main/github-header-image.png))
+![logo](https://github.com/siya9172/siya9172/blob/main/github-header-image.png)
  ## Hi there 👋
 
 <!--
